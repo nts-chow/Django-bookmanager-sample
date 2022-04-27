@@ -7,7 +7,7 @@
 课件在ubuntu环境桌面有，可以参考
 
 
-## 导入Voa文件方法
+## Vmvare导入Voa文件方法
 参考下面文档：
 https://blog.csdn.net/weixin_44033210/article/details/108413347
 
@@ -26,5 +26,5 @@ https://blog.csdn.net/weixin_44033210/article/details/108413347
  
 ![V2](https://user-images.githubusercontent.com/52964886/165519563-371df9d9-bce6-493b-be34-f60912fdce9b.png)
 
-**如果网络还不通基本上就是vmvare的网卡设置问题，和voa文件本身无关了
+**如果网络还不通基本上就是Vmvare的网卡设置问题，和voa文件本身无关了
 请百度自行解决，**
