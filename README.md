@@ -14,11 +14,16 @@ https://blog.csdn.net/weixin_44033210/article/details/108413347
 
 ## 可能会出现网络不通的情况参考下面方式:
 
-设置网络
++ 设置网络
+
 ![V0](https://user-images.githubusercontent.com/52964886/165519551-12710a54-60aa-4f28-851b-a6e571e39885.png)
-点击齿轮
+
++ 点击齿轮
+
 ![v1](https://user-images.githubusercontent.com/52964886/165519561-a5cf2112-1b8a-4aa5-9777-cc734bd6b4d8.png)
-改成自动
+
++ 改成自动
+ 
 ![V2](https://user-images.githubusercontent.com/52964886/165519563-371df9d9-bce6-493b-be34-f60912fdce9b.png)
 
 如果网络还不通基本上就是vmvare的网卡设置问题，请百度解决
