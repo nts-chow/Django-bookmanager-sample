@@ -12,7 +12,7 @@
 https://blog.csdn.net/weixin_44033210/article/details/108413347
 
 
-## 可能会出现网络不通的情况参考下面方式:
+## 肯定会出现网络不通的情况参考下面方式:
 
 + 设置网络
 
@@ -26,4 +26,5 @@ https://blog.csdn.net/weixin_44033210/article/details/108413347
  
 ![V2](https://user-images.githubusercontent.com/52964886/165519563-371df9d9-bce6-493b-be34-f60912fdce9b.png)
 
-如果网络还不通基本上就是vmvare的网卡设置问题，请百度解决
+**如果网络还不通基本上就是vmvare的网卡设置问题，和voa文件本身无关了
+请百度自行解决，**
