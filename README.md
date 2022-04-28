@@ -1,9 +1,12 @@
 # Django-bookmanager-sample
 
 ## 对应视频内容：
-链接：https://pan.baidu.com/s/1ti5tv5dExwM-PzxP8Tzddw 
-提取码：4r1e 
+
+链接：https://pan.baidu.com/s/11Mquy3jqgezt7gQKxDZENQ 
+提取码：eze5 
+
 ## voa文件：
+
 链接：https://pan.baidu.com/s/1UlZ4asC9J3fUCnvHhW98yA 
 提取码：za51 
 
